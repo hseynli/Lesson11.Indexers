@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\bin\Debug\net7.0\03.File.exe
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\bin\Debug\net7.0\03.File.deps.json
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\bin\Debug\net7.0\03.File.runtimeconfig.json
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\bin\Debug\net7.0\03.File.dll
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\bin\Debug\net7.0\03.File.pdb
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\obj\Debug\net7.0\03.File.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\obj\Debug\net7.0\03.File.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\obj\Debug\net7.0\03.File.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\obj\Debug\net7.0\03.File.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\obj\Debug\net7.0\03.File.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\obj\Debug\net7.0\03.File.dll
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\obj\Debug\net7.0\refint\03.File.dll
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\obj\Debug\net7.0\03.File.pdb
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\obj\Debug\net7.0\03.File.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson11.Indexers\03.File\obj\Debug\net7.0\ref\03.File.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3DCHDbq4/gK33JCdepxPI4LI01SVhin09fgJ+J5RaDMwdqtc72lb66v/SmJVLEAkFzk+EnLoZYLCenM4LKT1cQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson11.Indexers\\06.Nuget\\06.Nuget.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farid.huseynli\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

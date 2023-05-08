@@ -1,0 +1,17 @@
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\bin\Debug\net6.0\06.Nuget.exe
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\bin\Debug\net6.0\06.Nuget.deps.json
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\bin\Debug\net6.0\06.Nuget.runtimeconfig.json
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\bin\Debug\net6.0\06.Nuget.dll
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\bin\Debug\net6.0\06.Nuget.pdb
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\bin\Debug\net6.0\Bogus.dll
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\obj\Debug\net6.0\06.Nuget.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\obj\Debug\net6.0\06.Nuget.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\obj\Debug\net6.0\06.Nuget.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\obj\Debug\net6.0\06.Nuget.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\obj\Debug\net6.0\06.Nuget.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\obj\Debug\net6.0\06.Nuget.csproj.CopyComplete
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\obj\Debug\net6.0\06.Nuget.dll
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\obj\Debug\net6.0\refint\06.Nuget.dll
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\obj\Debug\net6.0\06.Nuget.pdb
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\obj\Debug\net6.0\06.Nuget.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson11.Indexers\06.Nuget\obj\Debug\net6.0\ref\06.Nuget.dll

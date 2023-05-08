@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\bin\Debug\net6.0\14.Indexers.exe
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\bin\Debug\net6.0\14.Indexers.deps.json
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\bin\Debug\net6.0\14.Indexers.runtimeconfig.json
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\bin\Debug\net6.0\14.Indexers.dll
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\bin\Debug\net6.0\14.Indexers.pdb
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\obj\Debug\net6.0\14.Indexers.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\obj\Debug\net6.0\14.Indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\obj\Debug\net6.0\14.Indexers.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\obj\Debug\net6.0\14.Indexers.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\obj\Debug\net6.0\14.Indexers.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\obj\Debug\net6.0\14.Indexers.dll
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\obj\Debug\net6.0\refint\14.Indexers.dll
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\obj\Debug\net6.0\14.Indexers.pdb
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\obj\Debug\net6.0\14.Indexers.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson11.Indexers\14.Indexers\obj\Debug\net6.0\ref\14.Indexers.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\bin\Debug\net6.0\08.NullOperators.exe
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\bin\Debug\net6.0\08.NullOperators.deps.json
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\bin\Debug\net6.0\08.NullOperators.runtimeconfig.json
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\bin\Debug\net6.0\08.NullOperators.dll
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\bin\Debug\net6.0\08.NullOperators.pdb
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\obj\Debug\net6.0\08.NullOperators.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\obj\Debug\net6.0\08.NullOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\obj\Debug\net6.0\08.NullOperators.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\obj\Debug\net6.0\08.NullOperators.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\obj\Debug\net6.0\08.NullOperators.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\obj\Debug\net6.0\08.NullOperators.dll
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\obj\Debug\net6.0\refint\08.NullOperators.dll
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\obj\Debug\net6.0\08.NullOperators.pdb
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\obj\Debug\net6.0\08.NullOperators.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson11.Indexers\08.NullOperators\obj\Debug\net6.0\ref\08.NullOperators.dll

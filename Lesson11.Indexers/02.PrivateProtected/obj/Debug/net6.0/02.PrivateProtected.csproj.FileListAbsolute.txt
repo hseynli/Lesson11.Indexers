@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\obj\Debug\net6.0\02.PrivateProtected.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\obj\Debug\net6.0\02.PrivateProtected.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\obj\Debug\net6.0\02.PrivateProtected.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\obj\Debug\net6.0\02.PrivateProtected.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\obj\Debug\net6.0\02.PrivateProtected.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\bin\Debug\net6.0\02.PrivateProtected.exe
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\bin\Debug\net6.0\02.PrivateProtected.deps.json
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\bin\Debug\net6.0\02.PrivateProtected.runtimeconfig.json
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\bin\Debug\net6.0\02.PrivateProtected.dll
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\bin\Debug\net6.0\02.PrivateProtected.pdb
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\obj\Debug\net6.0\02.PrivateProtected.dll
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\obj\Debug\net6.0\refint\02.PrivateProtected.dll
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\obj\Debug\net6.0\02.PrivateProtected.pdb
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\obj\Debug\net6.0\02.PrivateProtected.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson11.Indexers\02.PrivateProtected\obj\Debug\net6.0\ref\02.PrivateProtected.dll

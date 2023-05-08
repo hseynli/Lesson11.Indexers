@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\obj\Debug\net6.0\05.ClassMofier.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\obj\Debug\net6.0\05.ClassMofier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\obj\Debug\net6.0\05.ClassMofier.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\obj\Debug\net6.0\05.ClassMofier.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\obj\Debug\net6.0\05.ClassMofier.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\bin\Debug\net6.0\05.ClassMofier.exe
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\bin\Debug\net6.0\05.ClassMofier.deps.json
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\bin\Debug\net6.0\05.ClassMofier.runtimeconfig.json
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\bin\Debug\net6.0\05.ClassMofier.dll
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\bin\Debug\net6.0\05.ClassMofier.pdb
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\obj\Debug\net6.0\05.ClassMofier.dll
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\obj\Debug\net6.0\refint\05.ClassMofier.dll
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\obj\Debug\net6.0\05.ClassMofier.pdb
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\obj\Debug\net6.0\05.ClassMofier.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson11.Indexers\05.ClassMofier\obj\Debug\net6.0\ref\05.ClassMofier.dll
